@@ -1,0 +1,11 @@
+name: task_manager_cli
+
+description: Application CLI de gestion de tâches en Dart
+
+version: 1.0.0
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dev_dependencies:
+  test: ^1.25.0
